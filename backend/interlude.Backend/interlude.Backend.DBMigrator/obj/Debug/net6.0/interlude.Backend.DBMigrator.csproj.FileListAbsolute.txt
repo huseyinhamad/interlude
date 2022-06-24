@@ -1,0 +1,5 @@
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.DBMigrator\obj\Debug\net6.0\interlude.Backend.DBMigrator.csproj.AssemblyReference.cache
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.DBMigrator\obj\Debug\net6.0\interlude.Backend.DBMigrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.DBMigrator\obj\Debug\net6.0\interlude.Backend.DBMigrator.AssemblyInfoInputs.cache
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.DBMigrator\obj\Debug\net6.0\interlude.Backend.DBMigrator.AssemblyInfo.cs
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.DBMigrator\obj\Debug\net6.0\interlude.Backend.DBMigrator.csproj.CoreCompileInputs.cache
