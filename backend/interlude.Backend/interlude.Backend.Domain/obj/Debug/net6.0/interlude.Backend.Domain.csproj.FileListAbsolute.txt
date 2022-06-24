@@ -1,0 +1,12 @@
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\bin\Debug\net6.0\interlude.Backend.Domain.deps.json
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\bin\Debug\net6.0\interlude.Backend.Domain.dll
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\bin\Debug\net6.0\interlude.Backend.Domain.pdb
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.csproj.AssemblyReference.cache
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.AssemblyInfoInputs.cache
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.AssemblyInfo.cs
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.dll
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\refint\interlude.Backend.Domain.dll
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\interlude.Backend.Domain.pdb
+D:\Projects\interlude\backend\interlude.Backend\interlude.Backend.Domain\obj\Debug\net6.0\ref\interlude.Backend.Domain.dll
